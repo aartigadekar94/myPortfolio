@@ -15,7 +15,7 @@ This is my personal portfolio website built using **React**, **Bootstrap**, and 
 - CSS
 
 ## Live Demo
-[My Portfolio](https://aartigadekar94.github.io/myPortfolio)
+[My Portfolio](https://aartigadekar-portfolio.netlify.app/)
 
 ## How to Run Locally
 1. Clone the repo:
